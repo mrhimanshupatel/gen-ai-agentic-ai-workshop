@@ -1,6 +1,6 @@
 # Daily New Folder Setup Guide
 
-Complete step-by-step guide for creating new daily project folders (e.g., 04_12_2026, 04_13_2026).  
+Complete step-by-step guide for creating new daily/weekly project folders (e.g., 04_12_2026, 04_13_2026).  
 **Run all commands in VS Code terminal (PowerShell).**
 
 ---
