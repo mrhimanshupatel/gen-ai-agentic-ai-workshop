@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Data files (optional - uncomment if you don't want to track large data files)
+# *.csv
+# *.pkl
+# *.h5
+
+# Model files (optional - uncomment if models are too large)
+# *.pt
+# *.pth
+# *.keras
+# *.h5
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.local
+
+# Temporary files
+*.tmp
+*.temp
