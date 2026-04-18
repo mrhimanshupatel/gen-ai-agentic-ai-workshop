@@ -15,8 +15,9 @@ https://learn.krishnaikacademy.com/web/courses/6981da8500da71a041742187?chapter=
 
 https://docs.google.com/spreadsheets/u/0/d/1M7Dyr5EjDwu9EHIL5hvSJBmIQXifGH8QavIo_tbh8gk/htmlview?usp=sharing&pli=1&pru=AAABnVj5CLI*5l8da-9zY7FnmQc3QmehCw
 
-Github link: https://github.com/sunnysavita10/Full-Stack-GenAI-Bootcamp-1.0
+Github link (Sunny Savita): https://github.com/sunnysavita10/Full-Stack-GenAI-Bootcamp-1.0
 
+Github link (Himanshu Patel): https://github.com/mrhimanshupatel/gen-ai-agentic-ai-workshop.git
 
 Notion: https://www.notion.so/Class-01-Intro-GenAI-LLMs-331893f0ead0801faf10cde239077308
 https://www.notion.so/Class-03-Embedding-Encoding-332893f0ead080448fd1d9fd95376658
