@@ -1,0 +1,8 @@
+https://huggingface.co/sentence-transformers
+
+https://huggingface.co/models?library=sentence-transformers&sort=downloads
+
+https://developers.openai.com/api/docs/models/all
+
+https://ai.google.dev/gemini-api/docs
+
