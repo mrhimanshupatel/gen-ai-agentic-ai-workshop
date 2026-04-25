@@ -65,6 +65,15 @@ Practical notes: small corpus limits quality, low `min_count` may add noise, mod
 
 ---
 
+## 04_25_2026
+
+### TRANSFORMER_ARCHITECTURE_CONCEPTS_04_25_2026.md
+Deep dive into the **Transformer architecture** from motivation to math, based on handwritten class notes. Covers the full pipeline: tokenization → embedding → positional encoding → self-attention (Q, K, V) → multi-head attention → feed-forward network → output (softmax). Explains why Transformers replace RNNs (parallelism, long-range context), the attention formula $\text{softmax}(QK^T / \sqrt{d_k}) \times V$, residual connections (skip connections inspired by ResNet), layer normalization, and FFN non-linearity.
+
+Key architectural details: original Transformer uses 6 encoder + 6 decoder layers (hyperparameter — BERT uses 12/24, GPT uses 12–96+), 512-d embeddings expanded to 2048 in FFN. Covers encoder vs decoder differences (masked self-attention, cross-attention), stacking for hierarchical representation (word → phrase → sentence → context), and interview-ready recap topics.
+
+---
+
 ## Learning Progression
 
 ```
@@ -73,6 +82,7 @@ Practical notes: small corpus limits quality, low `min_count` may add noise, mod
 04_05 → Full text feature engineering pipeline + sentiment classification
 04_11 → Pre-trained Word2Vec (Google News) + Average Word2Vec
 04_12 → Custom Word2Vec training on domain-specific data
+04_25 → Transformer architecture: attention, Q/K/V, encoder-decoder, residual connections
   ↓
-Next  → Transformer-based embeddings (BERT, GPT)
+Next  → SOTA embeddings (Sentence Transformers, OpenAI, Gemini) & RAG pipelines
 ```
