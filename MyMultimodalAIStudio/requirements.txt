@@ -1,0 +1,7 @@
+streamlit
+pillow
+numpy
+python-dotenv
+openai
+imageio
+imageio-ffmpeg

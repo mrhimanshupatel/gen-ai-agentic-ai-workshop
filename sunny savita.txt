@@ -23,3 +23,5 @@ Notion: https://www.notion.so/Class-01-Intro-GenAI-LLMs-331893f0ead0801faf10cde2
 https://www.notion.so/Class-03-Embedding-Encoding-332893f0ead080448fd1d9fd95376658
 
 https://www.notion.so/Class-08-18-Apr-346893f0ead08082a6eaebff15577b81
+
+Form Link to Submit Assignment: https://docs.google.com/forms/d/e/1FAIpQLSdDnOZPorHk_bHSkQbs9h0lZ1JNErdMXNTBPgns6HHBLfLy9w/viewform
