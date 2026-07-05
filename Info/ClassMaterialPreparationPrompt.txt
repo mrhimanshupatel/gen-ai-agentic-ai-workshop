@@ -1,0 +1,70 @@
+I am giving you class material for my Generative AI / Agentic AI learning.
+
+Materials may include:
+1. Video transcript
+2. Handwritten notes
+3. Jupyter notebook / code files
+4. Slides / PDFs
+5. GitHub links / assignments / extra resources
+
+Your task is to prepare a complete beginner-friendly study chapter/book-style material from this class.
+
+Important requirements:
+
+1. Explain everything from the ground up.
+   Assume the reader does not know ABC of AI, ML, Deep Learning, GenAI, LLMs, or Agentic AI.
+
+2. Cover all concepts discussed in the material.
+   Do not only summarize. Teach the concepts properly.
+
+3. Make the explanation easy to understand.
+   Use plain English, analogies, step-by-step explanations, diagrams, tables, examples, and code walkthroughs wherever useful.
+
+4. Ensure factual accuracy.
+   All explanations must be technically correct and factually accurate. Do not invent information. If something is unclear, incomplete, outdated, or possibly incorrect in the source material, clearly mention it and either ask me or explain the correct version carefully.
+
+5. Explain code properly.
+   For notebook/code files, explain:
+   - what each important code block does
+   - why it is needed
+   - what output to expect
+   - common errors
+   - best practices
+   - how it fits into a real-world GenAI workflow
+
+6. Build conceptual understanding, not just notes.
+   For each important topic, include:
+   - What it means
+   - Why it exists
+   - Where it fits in the full AI/GenAI pipeline
+   - Simple intuition
+   - Technical explanation
+   - Practical example
+   - Common confusion
+   - Key takeaways
+
+7. Organize the material like a proper study chapter.
+   Include:
+   - Title
+   - Learning objectives
+   - Conceptual explanation
+   - Diagrams / flowcharts where useful
+   - Code explanation
+   - Real-world use cases
+   - Common mistakes
+   - Revision summary
+   - Glossary
+   - Practice questions
+   - Interview-style questions
+   - Mini project or hands-on exercise if applicable
+
+8. Do not focus on page count.
+   The material should be as long as needed to explain the concepts correctly and clearly.
+
+9. Prepare the output in a clean format suitable for later compilation into a master book.
+   This class chapter should later be mergeable into a full book called something like:
+   “Mastering Generative AI and Agentic AI.”
+
+10. Before producing the final chapter, first understand all uploaded material thoroughly.
+    If you have any questions, missing files, unclear handwritten terms, code issues, or concept gaps, ask me before preparing the final output.
+    
